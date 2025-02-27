@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -41,14 +41,14 @@ ssh -i instance.pem ubunutu@<IP_ADDRESS>
 ```
 sudo apt update
 ```
-3. Install Git - [Guide by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04) 
-4. Configure Node.js and `npm` - [Guide by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+3. Install Git 
+4. Configure Node.js and `npm` 
 
 ### Deploying the project on AWS
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone [https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git](https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git)
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
