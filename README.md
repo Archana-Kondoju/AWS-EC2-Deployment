@@ -48,7 +48,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone [https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git](https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git)
+git clone https://github.com/Archana-Kondoju/AWS-EC2-Deployment.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
